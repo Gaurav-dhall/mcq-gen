@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Which methodological emphasis led to a rift between artificial intelligence (AI) and machine learning (ML) during the early development of the field?,"a: The adoption of symbolic methods | b: The increased focus on logical, knowledge‑based approaches | c: The introduction of probabilistic reasoning | d: The expansion of neural network research",b
+"By the year 1980, which type of systems had become dominant within the AI discipline, contributing to the decline of statistical approaches?",a: Neural network systems | b: Probabilistic systems | c: Expert systems | d: Connectionist systems,c
+Which trio of researchers is credited with advancing connectionist research outside of AI and computer science?,"a: John Hopfield, David Rumelhart, and Geoffrey Hinton | b: John McCarthy, Marvin Minsky, and Allen Newell | c: Peter Norvig, Judea Pearl, and Alan Turing | d: Raymond Reiter, David D. Lewis, and Michael L. Littman",a
+What algorithmic breakthrough is noted as the main success of connectionist research in the mid‑1980s?,a: Support Vector Machines | b: Genetic Algorithms | c: Backpropagation | d: Reinforcement Learning,c
+"In the 1990s, machine learning re‑oriented its objectives away from which inherited approach of AI?",a: Statistical methods | b: Probabilistic reasoning | c: Symbolic approaches | d: Fuzzy logic,c
