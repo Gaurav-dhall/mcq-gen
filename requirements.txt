@@ -4,4 +4,4 @@ PyPDF2
 langchain
 python-dotenv
 
--e .~
+-e .
